@@ -1,0 +1,8 @@
+{
+ "type": [ "Extension" ],
+"provider": [ "ESRI" ],
+"software": [ "SPSS Modeler" ],
+"language": [ " R" ],
+"category": [ "Utility" ],
+"promotion": [ "No" ]
+}
