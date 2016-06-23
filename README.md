@@ -6,7 +6,7 @@ data from Esri’s Geoenrichment Service after referencing location values (lati
 ## Sources
 Esri demographic data sources are documented here, [Esri U.S. Data Fact Sheet (PDF)](http://downloads.esri.com/esri_content_doc/dbl/us/G68812_Data_Factsheet-FINAL_04-23-15.pdf).
 
-![SPSS Node Dialog](https://github.com/phpmaps/national-statistics-generator/blob/master/Screenshot/spss_natstat.png?raw=Yes)
+![SPSS Node Dialog](https://github.com/esri/national-statistics-generator/blob/master/Screenshot/spss_natstat.png?raw=Yes)
 
 ## Instructions
 * Read dependencies section
@@ -23,7 +23,7 @@ To learn more about the data collection variables, which will be included in you
 
 #### National Statistic Variable Explorer
 
-![NatSTAT Data Explorer](https://github.com/phpmaps/national-statistics-generator/blob/master/Screenshot/dataexplorer.png?raw=Yes)
+![NatSTAT Data Explorer](https://github.com/esri/national-statistics-generator/blob/master/Screenshot/dataexplorer.png?raw=Yes)
 
 ### Income Data
 
@@ -248,7 +248,7 @@ For the full catalog of U.S. Esri Demographic and Business Data, download the [2
 It would be pretty easy to modify this tool to generate national statistic data for countries outside the US by referencing the proper 2-digit country code and by changing the dropdown values. The dropdown values will need to be 
 changed because not every country has the same data availability.  To determine available for each  country use this [data browser tool](http://la.arcgis.com/databrowser).
 
-![ArcGIS Online Data Browser](https://github.com/phpmaps/national-statistics-generator/blob/master/Screenshot/databrowser.png?raw=Yes)
+![ArcGIS Online Data Browser](https://github.com/esri/national-statistics-generator/blob/master/Screenshot/databrowser.png?raw=Yes)
 
 ## Contributing
 
