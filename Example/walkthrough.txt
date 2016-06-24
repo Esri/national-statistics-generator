@@ -1,0 +1,12 @@
+Instructions
+* Add the .cfe file to the SPSS extensions folder
+* Start SPSS
+* Drag the Excel File "Source" node onto the canvas and load SampleData.xlsx (found in this project) via the file browse option
+* Drag the National Statistics (US) "Record Ops" node onto the canvas
+* Connect the Excel File node to the National Statistics (US) node
+* Click on the National Statistics (US) node and set the latitude, longitude, ArcGIS Online Username and Password values
+* Select a Data Collection and optionally complete additional fields
+* Drag the Table "Output" node onto the canvas
+* Connect the National Statistics (US) node to the Table output node
+* Click the SPSS green triagle button to run the stream
+
